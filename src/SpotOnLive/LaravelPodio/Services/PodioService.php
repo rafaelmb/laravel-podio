@@ -43,7 +43,7 @@ class PodioService
     /**
      * @return bool
      */
-    public function isAuthenticated(): bool
+    public function isAuthenticated()
     {
         return Podio::is_authenticated();
     }
