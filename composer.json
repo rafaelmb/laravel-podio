@@ -1,12 +1,12 @@
 {
-  "name": "spotonlive/laravel-podio",
+  "name": "repasse/laravel-podio",
   "type": "library",
   "description": "Podio integration for Laravel 5+",
   "keywords": [
     "podio",
     "laravel"
   ],
-  "homepage": "https://github.com/spotonlive/laravel-podio",
+  "homepage": "https://github.com/repasse/laravel-podio",
   "license": "MIT",
   "authors": [
     {
